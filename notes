@@ -1,0 +1,5 @@
+1. Thread
+2. Reply
+3. Users
+    a. Thread is created by user
+    b. Reply belongs to thread, reply belongs to user
